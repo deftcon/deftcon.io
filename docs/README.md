@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -20,14 +19,6 @@ img.center {
 display: block;
 margin-left: auto;
 margin-right: auto;
-}
-.center {
-margin: auto;
-width: 80em;
-}
-h1 {
-  color: orange;
-  margin-left: 40px;
 }
 </style>
 </head>
